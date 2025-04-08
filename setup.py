@@ -26,7 +26,7 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=[
         'Django>=1.8',
-        'pystache<0.6',
+        'pystache',
     ],
     classifiers=[
         'Framework :: Django',
